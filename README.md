@@ -1,3 +1,3 @@
-# Romas_own_repository - my second change ;)
+# Roma-s_repository
 This is my own repository on GitHub!
 first change :)
