@@ -1,0 +1,26 @@
+{
+  "title": "Contact Us",
+  "description": "Связаться с нами",
+  "page_content": {
+    "field_1": {
+      "title": "FIO",
+      "name": "fio",
+      "type": "text"
+    },
+    "field_2": {
+      "title": "Email",
+      "name": "email",
+      "type": "text"
+    },
+    "field_3": {
+      "title": "Message",
+      "name": "message",
+      "type": "textarea"
+    },
+    "field_4": {
+      "title": "SEND",
+      "name": "send",
+      "type": "submit"
+    }
+  }
+}

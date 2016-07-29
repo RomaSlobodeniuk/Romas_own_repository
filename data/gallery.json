@@ -1,0 +1,21 @@
+{
+  "title": "Gallery",
+  "description": "Popular pictures",
+  "page_content": {
+    "field_1": {
+      "title": "Name file",
+      "name": "title",
+      "type": "text"
+    },
+    "field_2": {
+      "title": "File",
+      "name": "file",
+      "type": "file"
+    },
+    "field_4": {
+      "title": "Upload",
+      "name": "send",
+      "type": "submit"
+    }
+  }
+}

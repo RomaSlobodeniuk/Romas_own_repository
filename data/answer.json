@@ -1,0 +1,8 @@
+{
+  "title": "Answer",
+  "fail": "Failure!",
+  "success": "Success!",
+  "action": "../contact.php",
+  "redirect": "Go back",
+  "inf": "Information for you"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "Testimonial",
+  "description": "Что люди думают про нас",
+  "page_content": {
+    "field_1": {
+      "name": "Alex Bu",
+      "type": "You are the best"
+    },
+    "field_2": {
+      "name": "Alex Boba",
+      "type": "It's an awesome world!"
+    },
+    "field_3": {
+      "name": "Dima Uchkin",
+      "type": "All in our hands"
+    }
+  }
+}
