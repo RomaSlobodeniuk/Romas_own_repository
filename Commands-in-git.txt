@@ -1,1 +1,7 @@
-git status - show the current status of repository
+git status #show the current status of repository
+git add . #производится индексирование файлов на предмет изменения в них
+git commit -m "update" #фиксируем публикацию, комментируем изменения
+git push -f #отправляем на сервер GitHub
+mkdir C:/develop/ #cоздаем папку на диске C (если Windows)
+git clone https://github.com/user/titlerepository # копируем свой репозиторий на компьютер
+cd titlerepository/ #заходим в локальный репозиторий
