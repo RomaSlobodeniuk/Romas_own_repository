@@ -1,0 +1,1 @@
+This is my first work repository and a project in it ^-^
