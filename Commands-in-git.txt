@@ -1,0 +1,1 @@
+git status - show the current status of repository
