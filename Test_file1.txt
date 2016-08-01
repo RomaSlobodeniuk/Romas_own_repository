@@ -1,1 +1,65 @@
-Hello, my dear friends ! )
+—имволы и знаки на английском €зыке:
+
+~ (tilde) - тильда
+
+! (exclamation mark) Ц восклицательный знак
+
+@ (at) Ц собачка
+
+# (number или hash) Ц решетка, диез
+
+$ (dollar) Ц доллар
+
+% (percent) Ц процент
+
+^ (caret) Ц знак вставки
+
+& (ampersand) Ц и
+
+* (asterisk) Ц звездочка
+
+( (open или left parenthesis) Ц открывающа€ или лева€ кругла€ скобка
+
+) (close или right parenthesis) Ц закрывающа€ или права€ кругла€ скобка
+
+_ (underscore или horizontal bar) Ц нижнее подчеркивание
+
++ (plus) Ц плюс
+
+` (acute) Ц гравис
+
+- (dash или hyphen) Ц тире или дефис
+
+= (equals) Ц знак равенства
+
+{ (open или left curly brace) Ц открывающа€ или лева€ фигурна€ скобка
+
+} (close или right curly brace) Ц закрывающа€ или права€ фигурна€ скобка
+
+| (pipe или vertical bar) Ц вертикальна€ черта
+
+[ (open или left square bracket) Ц открывающа€ или лева€ квадратна€ скобка
+
+] (close или right square bracket) Ц закрывающа€ или права€ квадратна€ скобка
+
+\ (reverse solidus или backslash) Ц обратный слеш/ слэш
+
+/ (solidus или forward slash) Ц слеш/ слэш
+
+: (colon) Ц двоеточие
+
+" (quote) Ц кавычки
+
+; (semi colon) Ц точка с зап€той
+
+' (apostrophe или single quote) Ц апостроф
+
+< (less than) Ц знак меньше
+
+> (greater than) Ц знак больше
+
+? (question mark) Ц вопросительный знак
+
+, (comma) Ц зап€та€
+
+. (dot, period или full stop) Ц точка (слово Ђdotї используетс€, как правило, в названи€х email адресов или web адресов; full stop (брит. анг.) или period (амер. англ.) Ц это точка, котора€ ставитс€ в конце предложени€)
