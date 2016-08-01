@@ -37,3 +37,11 @@ git branch <new branch name> #создание новой ветки с именем без переключения на 
 git checkout <branch name> #переключаемся на ветку с указаным именем
 
 git merge <branch name> #слияние текущей ветки с указанной
+
+git config --global mergetool.kdiff3.cmd '"c:\\Program Files (x86)\\KDiff3\\kdiff3" $BASE $LOCAL $REMOTE -o $MERGED' #устанавливаем утилиту для разрешения конфликтов при слиянии kdiff3 по умолчанию
+
+git mergetool #вызываем утилиту для разрешения конфлитка при слиянии
+
+
+
+
