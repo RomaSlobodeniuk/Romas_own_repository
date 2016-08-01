@@ -23,3 +23,5 @@ git log --since=2.weeks #показать коммиты за последние 2 недели
 git log -p -2 #выводит конкретизированную информацию об изменениях в файлах
 
 git mv <source> <destination> #Перенести или переименовать файл / каталог
+
+git config --global core.editor "'C:\Program Files (x86)\Notepad++\notepad++.exe' -multiInst -notabbar -nosession -noPlugin"
