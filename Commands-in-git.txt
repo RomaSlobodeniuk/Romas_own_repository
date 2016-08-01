@@ -36,4 +36,4 @@ git branch <new branch name> #создание новой ветки с именем без переключения на 
 
 git checkout <branch name> #переключаемся на ветку с указаным именем
 
-
+git merge <<branch name> #слияние текущей ветки с указанной
