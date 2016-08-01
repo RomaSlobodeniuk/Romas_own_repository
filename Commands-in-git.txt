@@ -38,10 +38,12 @@ git checkout <branch name> #переключаемс€ на ветку с указаным именем
 
 git merge <branch name> #сли€ние текущей ветки с указанной
 
-git stash #пр€танье проиндексированных файлов, которые еще не закомичены
 git config --global mergetool.kdiff3.cmd '"c:\\Program Files (x86)\\KDiff3\\kdiff3" $BASE $LOCAL $REMOTE -o $MERGED' #устанавливаем утилиту дл€ разрешени€ конфликтов при сли€нии kdiff3 по умолчанию
 
 git mergetool #вызываем утилиту дл€ разрешени€ конфлитка при сли€нии
+
+git stash #пр€танье проиндексированных файлов, которые еще не закомичены
+
 git stash list #показать список припр€таных изменений
 
 git stash apply <stash{number of stash}> #достать спр€танные изменени€ в файле
