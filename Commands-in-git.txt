@@ -25,3 +25,15 @@ git log -p -2 #выводит конкретизированную информацию об изменениях в файлах
 git mv <source> <destination> #Перенести или переименовать файл / каталог
 
 git config --global core.editor "'C:\Program Files (x86)\Notepad++\notepad++.exe' -multiInst -notabbar -nosession -noPlugin" #установка редактора файлов по умолчанию
+
+git checkout -b <new branch name> #создание новой ветки с именем и сразу переключаемся на нее
+
+git branch #выводит список веток и показывает на какой мы сейчас находимся
+
+git branch -v #показывает последние комментарии в коммитах веток
+
+git branch <new branch name> #создание новой ветки с именем без переключения на нее
+
+git checkout <branch name> #переключаемся на ветку с указаным именем
+
+
