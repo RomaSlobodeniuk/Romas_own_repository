@@ -26,7 +26,7 @@ git mv <source> <destination> #Перенести или переименовать файл / каталог
 
 git config --global core.editor "'C:\Program Files (x86)\Notepad++\notepad++.exe' -multiInst -notabbar -nosession -noPlugin" #установка редактора файлов по умолчанию
 
-git checkout -b <new branch name> #создание новой ветки с именем и сразу переключаемся на нее
+git checkout -b <new branch name> #создаем новую ветку с именем и сразу переключаемся на нее
 
 git branch #выводит список веток и показывает на какой мы сейчас находимся
 
