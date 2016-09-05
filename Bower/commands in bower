@@ -1,3 +1,5 @@
+Video manual: https://www.youtube.com/watch?v=jl3-rYqnvqU
+
  - "sudo bower -v" - show a bower version;
 
  - "sudo bower search/s jquery --allow-root" - search the library "jquery";
@@ -8,4 +10,21 @@
 
  - "sudo bower list --path --allow-root" - show a list of libraries with their paths;
 
- - "sudo bower uninstall jquery --allow-root" - delete the library "jquery";
+ - "sudo bower uninstall jquery --allow-root" - uninstall the library "jquery";
+
+ - "sudo bower install/i jquery --save/-S" - save the library "jquery" and set it into dependencies in "bower.json";
+
+ - "sudo bower install/i zepto --save-dev/-D" - save the library "zepto" and set it into devDependencies in "bower.json";
+
+ - "sudo bower uninstall jquery normalize.css --save/-S" - uninstall the libraries "jquery" and "normalize.css" with further deleting them from dependencies in "bower.json";
+
+ - "sudo bower uninstall zepto --save-dev/-D" - uninstall the library "zepto" with further deleting it from devDependencies in "bower.json";
+
+ - "sudo bower update jquery" - update the library "jquery";
+
+Work with "bower.json" file:
+updating: "aos": "2.1.0", "aos": "~2.1.0", "aos": "^2.1.0" - what does it mean? - "ver", "~ver", "^ver"?
+ - "ver" - when a bower will be updating the library, it will not happen, because there is not any of symbols "~" or "^" before a file version, for example - ("aos": "2.1.0");
+ - "~ver" - when a bower will be updating the library, it will update to 2.2.0 maximum, because there is a symbol "~" before a file version, for example - ("aos": "~2.1.0" --> "aos": "~2.2.0" <-- maximum!);
+ - "^ver" - when a bower will be updating the library, it will update to 3.0.0 maximum, because there is a symbol "^" before a file version, for example - ("aos": "~2.1.0" --> "aos": "~3.0.0" <-- maximum!);
+ - If we wanna get the latest version of the library, we should type "latest" in string with version of the library in "bower.json", for example - ("aos": "latest" --> "aos": "here will be the latest version").
