@@ -8,5 +8,4 @@
 
  - "sudo bower list --path --allow-root" - show a list of libraries with their paths;
 
- - "sudo bower uninstall jquery --allow-root" - delete the library "jquery"l;
-
+ - "sudo bower uninstall jquery --allow-root" - delete the library "jquery";
