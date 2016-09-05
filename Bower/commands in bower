@@ -1,4 +1,4 @@
- - "sudo bower -v" - show a version of bower;
+ - "sudo bower -v" - show a bower version;
 
  - "sudo bower search/s jquery --allow-root" - search the library "jquery";
 
@@ -8,4 +8,5 @@
 
  - "sudo bower list --path --allow-root" - show a list of libraries with their paths;
 
- - "sudo bower uninstall jquery --allow-root" - delete the library "jquery";
+ - "sudo bower uninstall jquery --allow-root" - delete the library "jquery"l;
+
