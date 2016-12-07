@@ -1,0 +1,213 @@
+@font-face {
+    font-family: HelveticaNeueBd; /* Гарнитура шрифта */
+    src: url(fonts/helveticaneue/Helvetica_Neu_Bold.ttf); /* Путь к файлу со шрифтом */
+}
+
+@font-face {
+    font-family: HelveticaNeueBd_Medium; /* Гарнитура шрифта */
+    src: url(fonts/helveticaneue/HelveticaNeue_Medium.ttf); /* Путь к файлу со шрифтом */
+}
+
+body {
+    background: url("../main/img/bckgr.jpg") no-repeat fixed 0;
+    z-index: 99;
+}
+
+.top_wrapper, .slider_wrapper {
+    margin: 0;
+    padding: 0;
+}
+
+.jumbotron {
+    background: none;
+    padding-top: 20px;
+    padding-bottom: 0;
+}
+
+.fa-facebook {
+    font-size: 16px;
+    color: white;
+    line-height: 1.5em;
+    width: 24px;
+}
+
+.fa-vk {
+    font-size: 16px;
+    color: white;
+    line-height: 1.5em;
+    width: 24px;
+}
+
+.fa-google-plus {
+    font-size: 16px;
+    color: white;
+    line-height: 1.5em;
+    width: 24px;
+}
+
+.social {
+    text-align: right;
+    position: relative;
+    top: 17px;
+}
+
+.social a{
+    position: relative;
+    right: 4px;
+    border-radius: 50%;
+    background-color: #a0a0a0;
+    text-align: center;
+    display: inline-block;
+    margin: 0 8px 0 8px;
+    padding: 6px;
+}
+
+.social a.facebook:hover{
+    position: relative;
+    right: 4px;
+    border-radius: 50%;
+    background-color: #3b5998;
+    text-align: center;
+    display: inline-block;
+    margin: 0 8px 0 8px;
+    padding: 6px;
+}
+
+.social a.vk:hover{
+    position: relative;
+    right: 4px;
+    border-radius: 50%;
+    background-color: #507299;
+    text-align: center;
+    display: inline-block;
+    margin: 0 8px 0 8px;
+    padding: 6px;
+}
+
+.social a.google_plus:hover{
+    position: relative;
+    right: 4px;
+    border-radius: 50%;
+    background-color: #e2574c;
+    text-align: center;
+    display: inline-block;
+    margin: 0 8px 0 8px;
+    padding: 6px;
+}
+
+.circle {
+    text-align: center;
+}
+
+.my_logo {
+    border-radius: 50%;
+    background-color: #e2574c;
+    position: relative;
+    bottom: 3px;
+    width: 72px;
+    text-align: center;
+    display: inline-block;
+    padding: 5px;
+}
+
+.my_logo h6 {
+    font-family: HelveticaNeueBd, sans-serif;
+    font-size: 28px;
+    line-height: 1.5em;
+    color: white;
+    position: relative;
+    text-shadow: 0 0 6px rgba(255,255,255,0.7);
+
+}
+
+.journey h3 {
+    font-family: HelveticaNeueBd, sans-serif;
+    font-size: 28px;
+    position: relative;
+    bottom: 1px;
+    right: 30px;
+    color: #f4fff8;
+    text-align: center;
+    text-shadow: 0 0 6px rgba(255,255,255,0.7);
+}
+
+.separator_line hr  {
+    border-top: 1px  solid #a8ffd7;
+}
+
+h2 {
+    font-family: HelveticaNeueBd, sans-serif;
+    font-size: 28px;
+    position: relative;
+    bottom: 1px;
+    right: 30px;
+    color: #45fcff;
+    text-shadow: 0 0 6px rgba(255,255,255,0.7);
+}
+
+.happy {
+    color: #ffffff;
+    text-align: center;
+    text-shadow: 0 0 6px rgb(255, 254, 78);
+}
+
+.separator h3 {
+    font-family: "HelveticaNeue", Helvetica, Arial, sans-serif Bold;
+    font-size: 24px;
+    position: relative;
+    /*opacity: .55;*/
+    right: 30px;
+    color: #ebebeb;
+    text-align: center;
+    text-shadow: 0 0 6px rgba(255,255,255,1);
+}
+
+.text h6 {
+    font-family: HelveticaNeueBd, Helvetica, Arial, sans-serif Bold;
+    font-size: 11px;
+    position: relative;
+    /*opacity: .55;*/
+    top: 14px;
+    right: 40px;
+    color: #f4fff8;
+    text-shadow: 0 0 6px rgba(255,255,255,0.7);
+}
+
+.text-capitalize h2 {
+    text-align: center;
+    /*opacity: .80;*/
+    padding-left: 50px;
+}
+
+.bold {
+    font-family: HelveticaNeueBd, sans-serif;
+    font-size: 18px;
+    color: #ffec38;
+    text-align: center;
+    text-shadow: 0 0 6px rgba(255,255,255,0.7);
+
+}
+
+.medium {
+    font-family: HelveticaNeueBd_Medium, sans-serif;
+    font-size: 14px;
+    /*opacity: .55;*/
+    color: #45fcff;
+    text-align: center;
+    text-shadow: 0 0 6px rgba(255,255,255,0.7);
+}
+
+li {
+    text-decoration: none;
+    display: inline-block;
+    width: 100%;
+    text-align: center;
+}
+
+.container {
+    text-align: center;
+}
+
+.slider_wrapper {
+    padding-left: 22px;
+}

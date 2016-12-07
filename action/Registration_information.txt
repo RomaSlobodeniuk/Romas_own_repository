@@ -17,3 +17,9 @@ User EMAIL is: dsfws
 User MESSAGE is: dwf
 
 User SEND is: Send
+
+Information about user:
+User FIO is: фі
+User EMAIL is: віфа
+User MESSAGE is: фвіа
+User SEND is: Send

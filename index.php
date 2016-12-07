@@ -7,3 +7,6 @@ $content = getTemplate();
 $content = parseNavigation($content, $navContent);
 $content = parseContent($content, $data);
 showContent($content);
+//include_once('function.php');
+//include_once('navigation.php');
+//require_once ('congratulations/index.php');
