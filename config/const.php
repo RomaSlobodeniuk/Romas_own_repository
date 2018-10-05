@@ -1,4 +1,4 @@
 <?php
 
-define('ROOT_PATH', '02_WOMEWORK/05_hw_site_(templates)/');
+define('ROOT_PATH', 'Romas_own_repository/');
 define('PICTURES_PER_PAGE', 4);

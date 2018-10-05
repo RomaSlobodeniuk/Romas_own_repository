@@ -23,3 +23,9 @@ User FIO is: фі
 User EMAIL is: віфа
 User MESSAGE is: фвіа
 User SEND is: Send
+
+Information about user:
+User FIO is: Roma
+User EMAIL is: romsl1991@gmail.com
+User MESSAGE is: My message weeeeee!
+User SEND is: Send
